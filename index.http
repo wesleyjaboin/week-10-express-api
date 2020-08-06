@@ -1,0 +1,19 @@
+GET http://localhost:3001
+###
+GET http://localhost:3001/testing-404
+###
+POST http://localhost:3001/
+
+Content-Type: application/json
+{
+"title": "Golf shirt"
+}
+
+###
+PUT http://localhost:30015f2b537f7f965f146efa5484
+
+Content-Type: application/json
+
+{
+    "title": "Just dot it"
+}
